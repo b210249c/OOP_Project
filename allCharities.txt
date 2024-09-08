@@ -1,0 +1,13 @@
+Name , Type , Country , About , Website , Email , Location
+Reef Check Malaysia , NGO , Malaysia , Reef Check Malaysia is part of the worldwide Reef Check network. Registered in Malaysia in 2007 as an NGO, our early work was focused on coral reef monitoring and island-based educational programs. Today, we monitor over 300 coral reefs annually around the country and are actively involved in marine environment management and conservation efforts. , https://www.reefcheck.org.my/ , hello @ reefcheck.org.my , Box 606, Lot 5.19-5.22, Wisma Central, Jalan Ampang, 50450, Kuala Lumpur.
+
+Name , Type , Country , About , Website , Email , Location
+Tengah Island Conservation , NGO , Malaysia , Tengah Island Conservation (TIC) is a non-profit biodiversity management initiative located on Pulau Tengah, an island within the Johor Marine Park, Malaysia. TIC is dedicated to the research, rehabilitation and regeneration of our natural environment. Our systemic and community-driven approach is to conserve and protect flora, fauna and marine ecosystems by working with, inspiring and involving relevant stakeholders, government, biodiversity specialists, the tourism industry, and local community. , https://www.tengahislandconservation.org/ , - , Long Beach, Pulau Tengah, 86800 Mersing, Johor, Malaysia.
+
+Name , Type , Country , About , Website , Email , Location
+Marine Stewardship Council Asia , NGO , Singapore , The Marine Stewardship Council is an international non-profit organisation. We recognise and reward efforts to protect oceans and safeguard seafood supplies for the future. , https://www.msc.org/ , info@msc.org , Singapore
+
+Name , Type , Country , About , Website , Email , Location
+Acres Wildlife Rescue Centre , NGO , Singapore , To create a caring and socially responsible society where animals are treated as sentient beings. , https://www.acres.org.sg , info@acres.org.sg , 91 Jln Lekar
+
+

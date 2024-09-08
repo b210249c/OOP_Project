@@ -1,0 +1,13 @@
+Country from , Duration , Place , Cruise ship , Route , Price , Date
+Malaysia , 1 Night , One Way Port Klang To Singapore (THU) , Genting Dream , Kuala Lumpur (Port Klang) - Singapore , 796 , 26 Sep, 2024
+
+Country from , Duration , Place , Cruise ship , Route , Price , Date
+Malaysia , 3 Nights , Penang & Singapore (Port Klang MON Roundtrip) , Genting Dream , Kuala Lumpur (Port Klang) - Penang - Singapore - Kuala Lumpur (Port Klang) , 3051 , 6 Oct, 2024 - 29 Oct, 2024
+
+Country from , Duration , Place , Cruise ship , Route , Price , Date
+Malaysia , 3 Nights , Pkuket & Singapore (Port Klang MON Roundtrip) , Genting Dream , Kuala Lumpur (Port Klang) - Pkuket - Singapore - Kuala Lumpur (Port Klang) , 2713 , 15 Dec, 2024 - 18 Dec, 2024
+
+Country from , Duration , Place , Cruise ship , Route , Price , Date
+Malaysia , 4 Nights , Singapore Discovery (Port Klang THU Roundtrip) , Genting Dream , Kuala Lumpur (Port Klang) - Singapore - At Sea - Singapore - Kuala Lumpur (Port Klang) , 2478 , 28 Nov, 2024 - 2 Dec, 2024
+
+
